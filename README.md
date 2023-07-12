@@ -9,7 +9,7 @@ https://codehelp.pp.ua \
 https://cosmeticpro.pp.ua \
 https://liveisgood.pp.ua \
 https://logod.pp.ua \
-
+...
 
 
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql&logoColor=eaed0b)
