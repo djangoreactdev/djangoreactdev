@@ -1,4 +1,4 @@
-## Python-JavasCript-DevOps Engineer
+## Python-JavaSript-DevOps Engineer
 ## Like To Build Cloud Automation & Make CI/CD Pipelines
 
 ### My second github - https://github.com/devdjangoreact
