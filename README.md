@@ -12,7 +12,6 @@ https://logod.pp.ua \
 ...
 
 
-![MYSQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql&logoColor=eaed0b)
 
 ### Languages and Tools
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=plastic&logo=amazon&logoColor=eaed0b)
