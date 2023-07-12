@@ -12,8 +12,21 @@ https://logod.pp.ua \
 ...
 
 
-
 ### Languages and Tools
+
+#### Frontend
+HTML5, CSS3, Typescript, JavaScript,
+TailwindCSS, Bootstrap, Material UI,Next.js,
+React, React Router DOM, Redux, Redux
+Toolkit, Axios, GraphQL ...
+
+#### Backend
+Python, async/await, urllib, pandas, openCV,
+Django, DRF,Channels 4, GraphQL, Isort,
+Flake8, Pytest, black, Selenium, BS, Scrapy,
+Playwright ...
+
+#### Devops
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=plastic&logo=amazon&logoColor=eaed0b)
 ![DOCKER](https://img.shields.io/badge/-DOCKER-000000?style=plastic&logo=docker&logoColor=eaed0b)
 ![JENKINS](https://img.shields.io/badge/-JENKINS-000000?style=plastic&logo=jenkins&logoColor=eaed0b)
