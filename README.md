@@ -1,8 +1,16 @@
-![Header](https://github.com/djangoreactdev/djangoreactdev/blob/master/assets/my-banner.png)
+## Python-JavasCript-DevOps Engineer
+## Like To Build Cloud Automation & Make CI/CD Pipelines
 
-## Python-JavasCript-DevOps Engineer | Like To Build Cloud Automation & Make CI/CD Pipelines
+### My second github - https://github.com/devdjangoreact
 
-My second git - https://github.com/devdjangoreact
+### My project
+https://solovkadmytro.pp.ua/
+https://codehelp.pp.ua/
+https://cosmeticpro.pp.ua/
+https://liveisgood.pp.ua/
+https://logod.pp.ua/
+
+
 
 ![MYSQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=mysql&logoColor=eaed0b)
 
