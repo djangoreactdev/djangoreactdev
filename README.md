@@ -8,7 +8,7 @@ https://solovkadmytro.pp.ua \
 https://codehelp.pp.ua \
 https://cosmeticpro.pp.ua \
 https://liveisgood.pp.ua \
-https://logod.pp.ua \
+https://laba.pp.ua \
 ...
 
 
